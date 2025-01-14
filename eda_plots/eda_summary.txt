@@ -1,0 +1,10 @@
+=== Credit Card Default Analysis Summary ===
+
+Total Records: 96806
+Default Rate: 1.41%
+
+Files Generated:
+1. target_distribution.png - Shows the distribution of defaults
+2. transaction_distribution.png - Distribution of transaction attributes
+3. correlation_heatmap.png - Correlation matrix visualization
+4. top_correlations.png - Top features correlated with default
